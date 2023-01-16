@@ -114,6 +114,7 @@ const Register = () => {
                                             <option value="india">India</option>
                                             <option value="usa">USA</option>
                                             <option value="singapore">Singapore</option>
+                                            <option value="cambodia">Cambodia</option>
                                         </select>
                                     </div>
                                 </div>

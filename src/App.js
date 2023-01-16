@@ -1,3 +1,4 @@
+// eslint-disable-next-line no-unused-vars
 import logo from './logo.svg';
 import './App.css';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
